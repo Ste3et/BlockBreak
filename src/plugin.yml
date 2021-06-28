@@ -3,6 +3,6 @@ version: 1.0
 description: DiceBuildServer
 author: Ste3et_C0st
 website: http://dicecraft.de
-depend: [DiceServerAPI,ProtocolLib]
+depend: [ProtocolLib]
 main: de.Ste3et_C0st.DiceBlockBreak.DiceBlockBreak
 api-version: 1.13
